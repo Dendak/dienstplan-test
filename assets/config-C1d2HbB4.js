@@ -1,0 +1,1 @@
+var e=`Dienstplan Gynäkologie`,t={zeiten:{normal:{von:`07:00`,bis:`14:30`},lang:{von:`07:00`,bis:`16:00`},nd:{von:`07:00`,bis:`08:00`},ndWochenende:{von:`07:30`,bis:`08:00`}},wochenGrenze:48,ndAbstand:2,ndMaxMonat:6,minAnwesend:3,gmTage:[1,3],langProTag:1,sondertage:[]};export{t as n,e as t};

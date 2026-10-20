@@ -1,0 +1,1 @@
+var e=class extends Error{constructor(e=`Die Datenbank ist noch nicht verbunden.`){super(e),this.name=`NichtEingerichtetFehler`}},t=class extends Error{constructor(){super(`Keine Verbindung. Bitte Internet prüfen und nochmals versuchen.`),this.name=`OfflineFehler`}};export{t as n,e as t};
